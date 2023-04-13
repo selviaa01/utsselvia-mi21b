@@ -1,0 +1,20 @@
+{
+  "menu": [
+    {
+      "name": "Bakso Halus",
+      "price": "11000",
+      "id": 1
+    }
+
+  ],
+  
+  "orders": [
+    {
+      "name": "Selvia",
+      "order": "Bakso Halus",
+      "count": "2",
+      "price": "11000"
+  }
+
+  ]
+}
